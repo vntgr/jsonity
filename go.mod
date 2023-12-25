@@ -1,3 +1,3 @@
-module git.sr.ht/~mysticmode/jsonity
+module github.com/vntgr/jsonity
 
 go 1.21
